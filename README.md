@@ -33,7 +33,6 @@ Ok, so you have read the brief and checked out the [designs](/design-assets/desi
    - `git remote add upstream https://github.com/zero-to-mastery/Keiko-Corp.git`
    - `git pull upstream master`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
-
 4. Find a task [here](https://github.com/zero-to-mastery/Keiko-Corp/issues) or [create a task](https://github.com/zero-to-mastery/Keiko-Corp/issues)
    - Comment on the task to claim it, ensuring no-body has done so already.
    - If you created a new task or issue, ensure you specify if you are undertaking the task or if someone else is able to claim it.
